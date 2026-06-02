@@ -1,0 +1,6 @@
+{
+  "name": "EDD Core Planner",
+  "description": "Interactive planner, sandbox, contract generator, and suite simulator for Expected-Driven Development in Next.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
